@@ -1,0 +1,12 @@
+body {
+    background-color: dimgray;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    font-family: Verdana, Geneva;
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+}
